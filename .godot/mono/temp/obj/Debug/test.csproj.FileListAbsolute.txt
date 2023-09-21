@@ -1,0 +1,17 @@
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/test.csproj.AssemblyReference.cache
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/test.AssemblyInfoInputs.cache
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/test.AssemblyInfo.cs
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/test.csproj.CoreCompileInputs.cache
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/bin/Debug/test.deps.json
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/bin/Debug/test.runtimeconfig.json
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/bin/Debug/test.dll
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/bin/Debug/ref/test.dll
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/bin/Debug/test.pdb
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/test.csproj.CopyComplete
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/test.dll
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/ref/test.dll
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/test.pdb
+/home/arobbrecht/Documents/Godot/test/.godot/mono/temp/obj/Debug/test.genruntimeconfig.cache

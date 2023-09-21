@@ -1,0 +1,23 @@
+[gd_scene load_steps=6 format=3 uid="uid://si0sgnosnhpn"]
+
+[ext_resource type="Script" path="res://scripts/level.gd" id="1_sumyc"]
+[ext_resource type="PackedScene" uid="uid://sp4w2n8ispnq" path="res://scenes/drone.tscn" id="4_4crou"]
+[ext_resource type="PackedScene" uid="uid://dsav8cyjda87l" path="res://scenes/player.tscn" id="4_gqaex"]
+[ext_resource type="PackedScene" uid="uid://b3484riurrj8k" path="res://scenes/box.tscn" id="4_it4kv"]
+[ext_resource type="PackedScene" uid="uid://ca38pm5g24teq" path="res://scenes/bed.tscn" id="5_ws4ye"]
+
+[node name="Level" type="Node2D"]
+script = ExtResource("1_sumyc")
+
+[node name="Bed" parent="." instance=ExtResource("5_ws4ye")]
+position = Vector2(844, 192)
+
+[node name="Box" parent="." instance=ExtResource("4_it4kv")]
+position = Vector2(207, 93)
+
+[node name="Drone" parent="." instance=ExtResource("4_4crou")]
+position = Vector2(149, 494)
+rotation = 3.14159
+
+[node name="Player" parent="." instance=ExtResource("4_gqaex")]
+position = Vector2(360, 234)
